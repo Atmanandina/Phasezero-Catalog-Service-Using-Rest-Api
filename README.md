@@ -38,7 +38,7 @@ src/main/java/com/jsp/phasezero_catalog_service/
 ├── repository/
 └── exception/
 
-🗄️ Database Design
+Database Design
 products table
 Column	Type	Description
 id	INT	Auto-generated primary key
@@ -52,7 +52,7 @@ createdAt	TIMESTAMP	Auto-generated creation time
 id->added to track our product very easy
 createdAt->added to get the time when we created 
 
-📌 API Endpoints (Tested in Postman)
+API Endpoints (Tested in Postman)
 Base URL
 http://localhost:2025/products
 
