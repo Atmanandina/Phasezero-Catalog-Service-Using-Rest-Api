@@ -54,7 +54,7 @@ createdAt->added to get the time when we created
 
 📌 API Endpoints (Tested in Postman)
 Base URL
-http://localhost:8080/products
+localhost:2025/products
 
 1️) Add Product
 POST /products
